@@ -45,6 +45,9 @@ For the training purposes in this project, we have used an “airline tweets” 
 
 Python, Confluent Kafka, Spark, os, pandas, numpy, matplotlib, nltk, pyspark, tweepy, Flask, spacy, kafka, sklearn, tensorflow, keras, AWS ECR, AWS EC2, boto3, AWS CLI, AWS IAM
 
+![image](https://github.com/user-attachments/assets/0aa23b9e-8417-44ca-b21c-c8cb2b909e33)
+
+
 <h3><b><u>References:</u></b></h3>
 
 This project is referenced and inspired from ProjectPro list of project ideas.
